@@ -22,7 +22,7 @@
 
 
     <?php
-    include("templates/NavBar.php"); /* affiche la NavBar*/
+    include("templates/NavBar.php"); /* affiche la NavBar */
     ?> 
 
 
