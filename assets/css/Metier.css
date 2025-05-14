@@ -1,0 +1,27 @@
+body {
+    background-attachment : fixed;
+    background-color: #343a40;
+}
+
+
+#Titre{
+    text-align: center;
+    color: white;
+}
+
+
+#dropdownMenuLink{
+    color: #1760be;
+    border: none;
+    border-radius: none;
+    background: none;
+    align-items: center; /* descend la fleche du menu */
+    padding: 10px 20px;
+  
+}
+
+
+#Domaine{
+    font-size: 30px;
+}
+

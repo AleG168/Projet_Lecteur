@@ -1,0 +1,21 @@
+.header {
+  padding: 15px;
+  background: #343a40;
+  color: white;
+  font-size: 30px;
+}
+
+#test {
+  color: #1760be;
+}
+
+#decalage{
+  margin-left: 30px;
+}
+
+.bouton {
+  color: #1760be;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+}
